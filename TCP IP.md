@@ -14,9 +14,14 @@ Layer-functionties-protocol-hardware-data format
 >* 
 
 ### Layer-5:session
->* 
->* 
-
+>* 為對談實體間建立連接
+>* 將對談位址對映為運輸位址。
+>* 選擇需要的運輸服務品質參數（QoS）。
+>* 對對談參數進行協商。
+>* 辨識各個對談連接。
+>* 傳送有限的透明用戶資料。
+>* 在兩個對談用戶之間實現有組織的，同步的資料傳輸。
+>* 連接釋放是通過"有序釋放","廢棄"，"有限量透明用戶資料傳送"等功能單元來釋放對談連接的。
 ### Layer-4:Transport
 >* TCP vs UDP
 >* port address
