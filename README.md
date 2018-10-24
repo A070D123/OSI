@@ -6,7 +6,6 @@ OSI
 應用層提供為應用軟體而設的埠，以設定與另一應用軟體之間的通訊。
 例如: HTTP，HTTPS，FTP，TELNET，SSH，SMTP，POP3等。
 ```
-```
 第6層 表達層（Presentation Layer）
 ```
 把資料轉換為能與接收者的系統格式相容並適合傳輸的格式。
